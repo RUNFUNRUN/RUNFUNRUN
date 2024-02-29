@@ -4,6 +4,8 @@
 
 ### My blog site (Japanese) : [runfunrun.tech](https://www.runfunrun.tech)
 
+### My editor : [LunarVim](https://www.lunarvim.org/)
+
 ## Technologies I use
 
 <div>
