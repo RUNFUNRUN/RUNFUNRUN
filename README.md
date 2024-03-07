@@ -2,7 +2,7 @@
 
 ### My portfolio site : [runfun.run](https://runfun.run)
 
-### My blog site (Japanese) : [runfunrun.tech](https://www.runfunrun.tech)
+### My blog site (Japanese) : [blog.runfun.run](https://blog.runfun.run)
 
 ### My editor : [LunarVim](https://www.lunarvim.org/)
 
