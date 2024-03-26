@@ -1,4 +1,4 @@
-# Hi! I'm RUNFUNRUN(Ryota Uchiyama).
+# Hi! I'm Ryota Uchiyama a.k.a RUNFUNRUN.
 
 ### My portfolio site : [runfun.run](https://runfun.run)
 
