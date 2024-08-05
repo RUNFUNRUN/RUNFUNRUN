@@ -5,7 +5,7 @@ There is a separate account for work.
 
 ### My portfolio site : [runfun.run](https://runfun.run)
 
-### My blog site (Japanese) : [runfunrun.tech](https://www.runfunrun.tech)
+### My blog site (Japanese) : [runfunrun.dev](https://www.runfunrun.dev)
 
 ### My editor : [LunarVim](https://www.lunarvim.org/)
 
