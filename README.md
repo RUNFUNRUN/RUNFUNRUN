@@ -7,7 +7,7 @@ There is a separate account for work.
 
 ### My blog site (Japanese) : [runfunrun.dev](https://www.runfunrun.dev)
 
-### My editor : [LunarVim](https://www.lunarvim.org/)
+### My editor : [LazyVim](https://github.com/RUNFUNRUN/LazyVim)
 
 ## Technologies I use
 
