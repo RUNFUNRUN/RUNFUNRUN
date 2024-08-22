@@ -9,6 +9,8 @@ There is a separate account for work.
 
 ### My editor : [LazyVim](https://github.com/RUNFUNRUN/LazyVim)
 
+### My dotfiles : [here](https://github.com/RUNFUNRUN/dotfiles)
+
 ## Technologies I use
 
 <div>
