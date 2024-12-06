@@ -3,13 +3,13 @@
 This is a private account.
 There is a separate account for work.
 
-### My portfolio site : [runfun.run](https://runfun.run)
+### My portfolio : [runfun.run](https://runfun.run)
 
-### My blog site (Japanese) : [runfunrun.dev](https://www.runfunrun.dev)
+### My tech blog (Japanese) : [runfunrun.dev](https://www.runfunrun.dev)
 
-### My editor : [LazyVim](https://github.com/RUNFUNRUN/LazyVim)
+### Neovim config : [LazyVim](https://github.com/RUNFUNRUN/LazyVim)
 
-### My dotfiles : [here](https://github.com/RUNFUNRUN/dotfiles)
+### dotfiles : [here](https://github.com/RUNFUNRUN/dotfiles)
 
 ## Technologies I use
 
