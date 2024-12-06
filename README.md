@@ -42,7 +42,7 @@ There is a separate account for work.
 
 ## Contact
 
-### Discord(ID: runfunrun) or [here](https://www.runfunrun.info/contact)
+### Discord(ID: runfunrun) or [here](https://runfun.run/contact)
 
 ## My stats
 
